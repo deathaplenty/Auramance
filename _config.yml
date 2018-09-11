@@ -1,1 +1,12 @@
+
+
+# basic options
+title: Auramance
+author: Deathaplenty
+email: deathaplenty@gmail.com
+description: A Tabletop RPG ruleset and resource
+github_username:  deathaplenty
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-slate
