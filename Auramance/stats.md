@@ -1,7 +1,7 @@
 ---
   layout: page
   title: Stats
-  permalink: /stats
+  permalink: /Auramance/stats
   categories: navbar
 ---
 
