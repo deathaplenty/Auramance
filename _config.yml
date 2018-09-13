@@ -17,7 +17,7 @@ title: Auramance
 email: deathaplenty@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Tabletop RPG ruleset and resource
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Auramance" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  Deathaplenty

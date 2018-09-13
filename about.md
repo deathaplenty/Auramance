@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /Auramance/about/
+permalink: /about/
 categories: navbar
 ---
 
