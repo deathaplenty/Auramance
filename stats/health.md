@@ -1,7 +1,7 @@
 ---
-  layout: page
-  title: Health
-  categories: stats
+layout: page
+title: Health
+categories: stats
 ---
 Health is a set stat for all characters of the same species.
 

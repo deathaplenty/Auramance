@@ -1,7 +1,7 @@
 ---
-  title: Body
-  categories: stats
-  layout: page
+title: Body
+categories: stats
+layout: page
 ---
 
 This is a measure of a character's physical capacity. This stat will determine what kinds of equipment a character can use, how much they can carry, provides a damage bonus for physical skills, and determines maximum throwing range.
