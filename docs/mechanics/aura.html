@@ -3,17 +3,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Resistance | Auramance</title>
+<title>Aura | Auramance</title>
 <meta name="generator" content="Jekyll v3.8.3" />
-<meta property="og:title" content="Resistance" />
+<meta property="og:title" content="Aura" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A Tabletop RPG ruleset and resource" />
 <meta property="og:description" content="A Tabletop RPG ruleset and resource" />
-<link rel="canonical" href="/Auramance/skills/defense/resistance.html" />
-<meta property="og:url" content="/Auramance/skills/defense/resistance.html" />
+<link rel="canonical" href="/Auramance/mechanics/aura.html" />
+<meta property="og:url" content="/Auramance/mechanics/aura.html" />
 <meta property="og:site_name" content="Auramance" />
 <script type="application/ld+json">
-{"description":"A Tabletop RPG ruleset and resource","@type":"WebPage","url":"/Auramance/skills/defense/resistance.html","headline":"Resistance","@context":"http://schema.org"}</script>
+{"description":"A Tabletop RPG ruleset and resource","@type":"WebPage","url":"/Auramance/mechanics/aura.html","headline":"Aura","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/Auramance/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/Auramance/feed.xml" title="Auramance" /></head>
 <body><header class="site-header" role="banner">
@@ -36,11 +36,63 @@
         <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Resistance</h1>
+    <h1 class="post-title">Aura</h1>
   </header>
 
   <div class="post-content">
-    <p>This measures your ability to not be affected by magic</p>
+    <p>The Aura is an atmosphere of magic. Entities can draw upon this energy, and the Aura will replenish itself naturally over time.</p>
+
+<h2 id="game-rules">Game Rules</h2>
+<h3 id="entering-an-area">Entering an Area</h3>
+<p>Roll 1d20 for current Aura level</p>
+
+<h3 id="maximum">Maximum</h3>
+<p>maximum is always 20, unless the DM wants to change it, perhaps for a story-driven reason.
+If the current Aura is 0, a random ethereal Fae will be damaged if a spell is cast.</p>
+
+<h3 id="aura-regeneration">Aura Regeneration</h3>
+<p>Aura Regeneration is a fixed value based on moon phase.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">Moon Phase</th>
+      <th style="text-align: left">Regeneration Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">New Moon</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Crescent Moon</td>
+      <td style="text-align: left">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Half Moon</td>
+      <td style="text-align: left">2</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Gibbous Moon</td>
+      <td style="text-align: left">3</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Full Moon</td>
+      <td style="text-align: left">4</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Aura regeneration happens at the end of every round (everyone has had a turn).</p>
+
+<h3 id="casting-from-the-aura">Casting from the Aura</h3>
+<p>You can always cast a spell, even if Aura is at zero. However, for every point of magic used that isn’t in the Aura, etherial creatures will take damage. Each point is distributed semi-randomly, starting from a random value, then going in order. Etherial creatures damaged this way will be upset and will be on their way to do harm to you.</p>
+
+<h3 id="aura-overtax-damage">Aura Overtax Damage</h3>
+<p>To do overtax damage to ethereals, first assign numbers to your ethereal party members starting from 1. Roll a d10. Starting at that value, apply 1 point of damage for every entity in ascending order, wrapping back to 1 if necessary, until you run out of damage to deal. For empty values, generate new ethereals, assign them that value, then damage them.</p>
+
+<p>An example: https://docs.google.com/spreadsheets/d/1Gem4ZBmHrYE5lJblRi9c_BoPZiWukroaM8334p33NVs/edit#gid=0</p>
 
   </div>
 

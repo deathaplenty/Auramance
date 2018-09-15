@@ -1,0 +1,12 @@
+---
+ title: Index
+ layout: page
+---
+
+### This is a complete list of all pages on this site:
+
+
+{% assign pages = site.pages | sort: "title"  %}
+{% for page in pages %}
+{% include pagelink.md page=page %}
+{% endfor %}
