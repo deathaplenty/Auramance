@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Mind
-categories: stats
+layout: page
+categories: attributes
 ---
 This is a measure of a character's mental capacity. It affects their ability to reason and what they can memorize.
 

@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Health
-categories: stats
+layout: page
+categories: attributes
 ---
-Health is a set stat for all characters of the same species.
+Health is a set attribute for all characters of the same species.
 
 No human has more "life" than another, for example.
 

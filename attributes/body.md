@@ -1,10 +1,10 @@
 ---
 title: Body
-categories: stats
 layout: page
+categories: attributes
 ---
 
-This is a measure of a character's physical capacity. This stat will determine what kinds of equipment a character can use, how much they can carry, provides a damage bonus for physical skills, and determines maximum throwing range.
+This is a measure of a character's physical capacity. This attribute will determine what kinds of equipment a character can use, how much they can carry, provides a damage bonus for physical skills, and determines maximum throwing range.
 
 # Bonuses
 ## What you get per point of body
