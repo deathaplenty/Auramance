@@ -1,7 +1,7 @@
 ---
 title: Survival
 layout: page
-categories: [skills, type]
+categories: [skills, utility]
 ---
 This skill covers a large selection of skills. Survival determines:
 - The ability to navigate wilderness

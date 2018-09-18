@@ -3,7 +3,9 @@
  layout: page
 ---
 
-### This is a complete list of all pages on this site:
+# This is a complete list of all pages on this site.
+
+***Down here, ctrl-f is god.***
 
 
 {% assign pages = site.pages | sort: "title"  %}

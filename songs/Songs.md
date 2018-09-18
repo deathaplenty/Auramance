@@ -1,3 +1,8 @@
+---
+title: Songs
+layout: page
+categories: abilities
+---
 Songs are musical arrangements. Some songs are so well crafted, that they will inspire listeners. Typically, songs have to be played continuously, but there are a few exceptions.
 
 # Song List
@@ -15,7 +20,7 @@ A collection of songs accounting great feats of Swordplay. These songs inspire l
 ### Summary
 A assorted collection of lullabies from many different cultures. These lullabies instill a peacefulness into their listeners, causing them to slow or fall asleep
 ### Effect
-Every 4th turn, listeners have to attempt a saving throw vs Sleep. If it fails, the character falls asleep for 4 to 8 turns. 
+Every 4th turn, listeners have to attempt a saving throw vs Sleep. If it fails, the character falls asleep for 4 to 8 turns.
 ## A Plea to the Fae
 ### Summary
 This song stirs the hearts of nearby magical creatures.

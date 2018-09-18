@@ -2,6 +2,7 @@
 title: Species
 layout: page
 categories:  navbar
+permalink: /species/
 ---
 This is an exhaustive list of all species in the game
 
