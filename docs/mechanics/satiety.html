@@ -9,13 +9,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A Tabletop RPG ruleset and resource" />
 <meta property="og:description" content="A Tabletop RPG ruleset and resource" />
-<link rel="canonical" href="http://localhost:4000/Auramance/mechanics/satiety.html" />
-<meta property="og:url" content="http://localhost:4000/Auramance/mechanics/satiety.html" />
+<link rel="canonical" href="/Auramance/mechanics/satiety.html" />
+<meta property="og:url" content="/Auramance/mechanics/satiety.html" />
 <meta property="og:site_name" content="Auramance" />
 <script type="application/ld+json">
-{"description":"A Tabletop RPG ruleset and resource","@type":"WebPage","url":"http://localhost:4000/Auramance/mechanics/satiety.html","headline":"Satiety","@context":"http://schema.org"}</script>
+{"description":"A Tabletop RPG ruleset and resource","@type":"WebPage","url":"/Auramance/mechanics/satiety.html","headline":"Satiety","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/Auramance/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/Auramance/feed.xml" title="Auramance" /></head>
+<link rel="stylesheet" href="/Auramance/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/Auramance/feed.xml" title="Auramance" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/Auramance/">Auramance</a><nav class="site-nav">
@@ -42,7 +42,7 @@
   <div class="post-content">
     <p>Adventurers have to eat. Satiety is a measure of how well your metabolic needs are met, such as food and water.</p>
 
-<h1 id="notable-levels">Notable Levels</h1>
+<h2 id="notable-levels">Notable Levels</h2>
 <ul>
   <li>100: Full satiety. You could not be any more sated.</li>
   <li>75:  Hungry. Your stomach has let you know that it’s ready for input.</li>
@@ -50,13 +50,74 @@
   <li>0:   Starving. Your body has started consuming itself to keep important functions active.</li>
 </ul>
 
-<h1 id="using-satiety">Using Satiety</h1>
-<p>Characters shouldn’t start taking damage until satiety is zero. After that, a reasonable rate of health loss might be 1 point of health per 25 satiety the player would have lost over time. This means that if 50 satiety is 24 hours without food, then a player will lose 2 health a day. Extrapolating further, you can expect a human that had full health to die after 12 days of not having food.</p>
+<h2 id="using-satiety">Using Satiety</h2>
+<p>Satiety drains at a rate of 1 per 30 minutes or 2 per hour. Therfor, a character that had full satiety will be at 50 satiety after 25 hours, and at 0 satiety after 50 hours. This means a character typically starts starving a little after two days without food.</p>
 
-<p>GMs can feel free to make strenuous tasks drain satiety. Climbing mountains is sure to make an adventurer hungry.</p>
+<p>Characters shouldn’t start taking damage until satiety is zero. After that, a reasonable rate of health loss might be 1 point of health per 25 satiety the character would have lost over time. This means that every 25 hours, the character would lose 2 health. Extrapolating further, you can expect a human that had full health to die after 12 and a half days of not having food.</p>
 
-<h1 id="natural-regeneration">Natural Regeneration</h1>
+<table>
+  <thead>
+    <tr>
+      <th>Satiety</th>
+      <th>Hours</th>
+      <th>Health</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>-2</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>-25</td>
+      <td>12.5</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>-50</td>
+      <td>25</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>-100</td>
+      <td>50</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>-125</td>
+      <td>62.5</td>
+      <td>-1</td>
+    </tr>
+    <tr>
+      <td>-150</td>
+      <td>75</td>
+      <td>-2</td>
+    </tr>
+    <tr>
+      <td>-350</td>
+      <td>175</td>
+      <td>-10</td>
+    </tr>
+    <tr>
+      <td>-650</td>
+      <td>300</td>
+      <td>-20</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>A Note to GMs</strong></p>
+
+<p>You can easily tweak how fast or slow starvation happens by tweaking satiety an hour. You can also control health loss by tweaking the satiety to health ratio. As an example, you can make it take twice as long to starve and make make health loss happen half as fast just by setting satiety an hour to 1. As another example, you can make starvation happen twice as fast by setting satiety an hour to 4, but you can make health loss stay the same by doubling the satiety to health ratio to 50. This way, characters start losing health after about a day without food, but the health loss isn’t any faster.</p>
+
+<p>You could also use satiety as a type of currency for strenuous tasks. Climbing mountains is sure to make an adventurer hungry.</p>
+
+<h2 id="natural-regeneration">Natural Regeneration</h2>
 <p>If natural regeneration is preferred in your session, you could allow regeneration between 100 and 50 satiety. Realistic natural regeneration would probably be extremely slow, however.</p>
+
+<h2 id="developer-notes">Developer Notes</h2>
+<p>The intention behind this mechanic is to add realism to an adventure and to make pre-adventure preparation and survival skills important.</p>
 
   </div>
 
