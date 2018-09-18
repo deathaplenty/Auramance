@@ -3,31 +3,18 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
+    <p><strong>{{ site.title }}</strong> | <a href={{ site.baseurl }}{% link pagelist.md %}>Site Index<a> </p>
     <div class="footer-col-wrapper">
+
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              <a href={{ site.baseurl }}{% link pagelist.md %}>Index<a>
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
         {%- include social.html -%}
+        <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
       </div>
-
+      <div class="footer-col footer-col-2">
+      </div>
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
-        <p>This site was last updated on {{site.time}}</p>
+        <p>This site was last updated on:<br>{{ site.time | date_to_rfc822 }}</p>
       </div>
     </div>
 
