@@ -15,7 +15,7 @@ This skill covers a large selection of skills. Survival determines:
 - Level 3: Simple Snare traps; food safety
 - Level 4: Safely traverse thorned plants
 - Level 5: Pit traps
-- Level 10: As long as there is food to be harvested in the area, this character will always succeed in feeding the party.
+
 
 
 ## Related Checks
