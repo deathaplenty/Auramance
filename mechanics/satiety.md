@@ -6,11 +6,9 @@ categories: mechanics
 Adventurers have to eat. Satiety is a measure of how well your metabolic needs are met, such as food and water.
 
 ## Using Satiety
-Satiety drains at a rate of 4 per day or 1 per 6 hours. Therfor, a character that had full satiety will be at 50 satiety after 12 and a half days, and at 0 satiety after 25 days. This means a character typically starts starving a little after two days without food.
+Satiety drains at a rate of 4 per day or 1 per 6 hours. Therfor, a character that had full satiety will be at 50 satiety after 12 and a half days, and at 0 satiety after 25 days. After a character falls below 80 satiety, negative effects start stacking against them.
 
-Characters shouldn't start taking damage until satiety is zero. After that, a reasonable rate of health loss might be 1 point of health per 25 satiety the character would have lost over time. This means that every 25 hours, the character would lose 2 health. Extrapolating further, you can expect a human that had full health to die after 12 and a half days of not having food.
-
-These debuffs will affect all derivatives. You will become encumbered as you weaken. You will forget things as your memory lapses. You will be more susceptible to negative effects as your body cannot fight them as well.
+These debuffs will affect all derivatives. The character will become encumbered as they weaken, forget things as their memory lapses, and be more susceptible to negative effects as their body cannot fight them as well.
 
 |Satiety|Effects                                          |
 |-------|-----                                            |
