@@ -47,4 +47,8 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
-      title: 
+
+collections:
+  attributes:
+    output: true
+    permalink: /attributes/:path

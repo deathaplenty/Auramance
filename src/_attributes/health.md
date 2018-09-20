@@ -1,7 +1,7 @@
 ---
 title: Health
 layout: page
-categories: attributes
+attribute: true
 ---
 Health is a measure of vitality, of how strong a grasp a character has on living. It is a set attribute dependant on species.
 

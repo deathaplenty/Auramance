@@ -1,7 +1,7 @@
 ---
 title: Spirit
 layout: page
-categories:  attributes
+attribute: true
 ---
 
 This measures a persons ability to resist temptation, resist control effects, and keep their morale in the face of danger. At higher levels, the character may sometimes refuse to die (Save vs death).

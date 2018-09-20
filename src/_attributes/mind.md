@@ -1,7 +1,7 @@
 ---
 title: Mind
 layout: page
-categories: attributes
+attribute: true
 ---
 This is a measure of a character's mental capacity. It affects their ability to reason and what they can memorize.
 
