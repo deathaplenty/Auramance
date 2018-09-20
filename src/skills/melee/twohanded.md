@@ -1,6 +1,7 @@
 ---
 title: Two Handed
 layout: page
-categories: [skills, melee]
+skill: true
+melee: true
 ---
 This is a measure of a character's ability to weild tools with two hands.

@@ -1,7 +1,5 @@
 {% for page in site.pages %}
-  {% for category in page.categories %}
-    {% if category == {{include.category}} %}
+    {% if page[{{include.type}}] %}
 [{{page.title}}]({{ site.baseurl }}{{ page.url }})
     {% endif %}
-  {% endfor %}
 {% endfor %}

@@ -1,7 +1,8 @@
 ---
 title: Parry
 layout: page
-categories: [skills, defense]
+skill: true
+defense: true
 ---
 The Parry skill represents a character's ability to deflect an attack while also opening up their attacker for an immediate counterattack
 

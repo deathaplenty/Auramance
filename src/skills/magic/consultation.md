@@ -1,7 +1,8 @@
 ---
 title: Consultation
 layout: page
-categories: [magic, skills]
+magic: true
+skill: true
 ---
 This measures a character's ability to communicate with and persuade wild Fae or a familiar to perform some sort of magic or give some sort of assistance.
 

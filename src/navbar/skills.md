@@ -1,36 +1,36 @@
 ---
 layout: page
 title: Skills
-categories: navbar
+navbar: true
 permalink: /skills
 ---
 This game works on a skill-based system. Each skill ranges from 0-10, where 0 means you have absolutely no ability to perform said skill and 10 means that you are a master of that skill.
 
 If a skill has a 0 value, it cannot be increased via level up until the character makes attempts at learning the basics.
 
-# Skill List
-## Magic
-{% include pageList.md category="magic"%}
+## Skill List
+### Magic
+{% include pageList.md type="magic"%}
 
-## Melee
-{% include pageList.md category="melee"%}
+### Melee
+{% include pageList.md type="melee"%}
 
-## Ranged
-{% include pageList.md category="ranged"%}
-## Defense
-{% include pageList.md category="defense"%}
+### Ranged
+{% include pageList.md type="ranged"%}
+### Defense
+{% include pageList.md type="defense"%}
 
-## Utility
-{% include pageList.md category="utility"%}
+### Utility
+{% include pageList.md type="utility"%}
 
 
-# Learning new skills
+## Learning new skills
  So you want to pick up a skill you have no ability for. To go about this, a character must successfully use that skill 10 times. After that, they may allot a skill point in a level 0 skill and level it up as normal afterwards.
 
-# Rolls and Checks
+## Rolls and Checks
 Typically one skill will be used offensively and another will be used in defense of that. An example might be one-handed and evasion. This is how rolls typically go:
 
-# Base Rules
+## Base Rules
 - Both parties in a conflict roll a d20 and add their respective offense and defense bonuses
 - The party that rolls highest, wins
 - break ties with another roll

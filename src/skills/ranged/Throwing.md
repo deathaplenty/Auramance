@@ -1,6 +1,7 @@
 ---
 title: Throwing
 layout: page
-categories: [skills, ranged]
+skill: true
+ranged: true
 ---
 This measures a character's ability to throw objects where they are aiming.

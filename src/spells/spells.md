@@ -1,7 +1,7 @@
 ---
 title: Spells
 layout: page
-categories:  abilities
+ability: true
 permalink: /spells/
 ---
 

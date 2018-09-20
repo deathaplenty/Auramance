@@ -1,7 +1,7 @@
 ---
 title: Saving Throws
 layout: page
-categories: mechanics
+mechanic: true
 ---
 Saving throws are checks to specifically avoid some outcome. The number by each type is the default check.
 

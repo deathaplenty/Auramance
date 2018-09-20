@@ -1,7 +1,7 @@
 ---
 title: Songs
 layout: page
-categories: abilities
+ability: true
 ---
 Songs are musical arrangements. Some songs are so well crafted, that they will inspire listeners. Typically, songs have to be played continuously, but there are a few exceptions.
 

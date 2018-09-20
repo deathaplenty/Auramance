@@ -1,7 +1,8 @@
 ---
 title: Intuition
 layout: page
-categories: [skills, utility]
+skill: true
+utility: true
 ---
 This skill measures the character's ability to read body language and intent.
 

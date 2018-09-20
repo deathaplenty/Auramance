@@ -1,7 +1,7 @@
 ---
 title: Human
 layout: page
-categories:  species
+specie: true
 ---
 Generic
 

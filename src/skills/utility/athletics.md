@@ -1,7 +1,8 @@
 ---
 title: Athletics
 layout: page
-categories: [skills, utility]
+skill: true
+utility: true
 ---
 This skill measures a character's capacity to run, jump, or climb.
 

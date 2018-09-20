@@ -1,7 +1,7 @@
 ---
 title: Abilities
 layout: page
-categories: navbar
+navbar: true
 ---
 Abilities are a generic term for any action a character can take such as casting spells or playing songs. Below are links to respective ability categories.
-{% include pageList.md category="abilities" %}
+{% include pageList.md type="ability" %}

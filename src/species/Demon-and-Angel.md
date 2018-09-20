@@ -1,7 +1,7 @@
 ---
 title: Demon and Angel
 layout: page
-categories:  species
+specie: true
 ---
 Demons and Angels are the same thing. They are a type of Fae brought about from strong emotion. They typically have an affinity for whatever emotion bore them, causing many demons and angels to be slaves to emotions that are not their own.
 

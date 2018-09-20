@@ -1,7 +1,7 @@
 ---
 title: Elf
 layout: page
-categories:  species
+specie: true
 ---
 Fae
 

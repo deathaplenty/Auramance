@@ -1,7 +1,7 @@
 ---
 title: Satiety
 layout: page
-categories: mechanics
+mechanic: true
 ---
 Adventurers have to eat. Satiety is a measure of how well your metabolic needs are met, such as food and water.
 

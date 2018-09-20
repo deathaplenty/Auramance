@@ -1,8 +1,8 @@
 ---
 title: Mechanics
 layout: page
-categories: navbar
+navbar: true
 permalink: /mechanics
 ---
 This is a landing page for all game mechanics.
-{% include pageList.md category="mechanics" %}
+{% include pageList.md type="mechanic" %}
