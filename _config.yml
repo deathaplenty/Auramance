@@ -52,3 +52,9 @@ collections:
   attributes:
     output: true
     permalink: /attributes/:path
+  spells:
+    output: true
+    permalink: /spells/:path
+  skills:
+    output: true
+    permalink: /skills/:path

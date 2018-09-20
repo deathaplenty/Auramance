@@ -10,18 +10,38 @@ If a skill has a 0 value, it cannot be increased via level up until the characte
 
 ## Skill List
 ### Magic
-{% include pageList.md type="magic"%}
+{% for page in site.skills %}
+  {% if page.magic %}
+[{{page.title}}]({{site.baseurl}}{{page.url}})
+  {% endif %}
+{% endfor %}
 
 ### Melee
-{% include pageList.md type="melee"%}
+{% for page in site.skills %}
+  {% if page.melee %}
+[{{page.title}}]({{site.baseurl}}{{page.url}})
+  {% endif %}
+{% endfor %}
 
 ### Ranged
-{% include pageList.md type="ranged"%}
+{% for page in site.skills %}
+  {% if page.ranged %}
+[{{page.title}}]({{site.baseurl}}{{page.url}})
+  {% endif %}
+{% endfor %}
 ### Defense
-{% include pageList.md type="defense"%}
+{% for page in site.skills %}
+  {% if page.defense %}
+[{{page.title}}]({{site.baseurl}}{{page.url}})
+  {% endif %}
+{% endfor %}
 
 ### Utility
-{% include pageList.md type="utility"%}
+{% for page in site.skills %}
+  {% if page.utility %}
+[{{page.title}}]({{site.baseurl}}{{page.url}})
+  {% endif %}
+{% endfor %}
 
 
 ## Learning new skills

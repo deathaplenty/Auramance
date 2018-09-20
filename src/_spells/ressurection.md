@@ -1,7 +1,7 @@
 ---
 title: Ressurection
 layout: page
-categories: [spells, spells_utility]
+utility: true
 ---
 Bringing the dead back to life is a difficult, long, and expensive task with several restrictions.
 ## Effect

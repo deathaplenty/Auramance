@@ -1,7 +1,7 @@
 ---
 title: Power Word Death
 layout: page
-categories: [spells, spells_offensive]
+offense: true
 ---
 
 A dangerous and powerful spell. The simple utterance of a specific word with malevolent intent will throw both user and target into a sudden and painful death.

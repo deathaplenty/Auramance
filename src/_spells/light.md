@@ -1,7 +1,7 @@
 ---
 title: Light
 layout: page
-categories: [spells, spells_utility]
+utility: true
 ---
 ## Effect
   Summons a small orb of light in the character's hand

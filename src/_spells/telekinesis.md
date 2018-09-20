@@ -1,7 +1,7 @@
 ---
 title: Telekinesis
 layout: page
-categories: [spells, spells_utility]
+utility: true
 ---
 
 ## Summary

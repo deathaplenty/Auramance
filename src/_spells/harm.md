@@ -1,7 +1,7 @@
 ---
 title: Harm
 layout: page
-categories: [spells, spells_offensive]
+offense: true
 ---
 ## Summary
   A simple spell that will generically harm the target in some way. Due to its simple nature, it is easy to learn and cheap to cast.
