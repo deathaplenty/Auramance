@@ -1,7 +1,6 @@
 ---
 title: Saving Throws
 layout: page
-mechanic: true
 check: true
 ---
 Saving throws are checks to specifically avoid some outcome.
