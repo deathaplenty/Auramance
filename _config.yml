@@ -58,3 +58,6 @@ collections:
   skills:
     output: true
     permalink: /skills/:path
+  checks:
+    output: true
+    parmalink: /skills/:path

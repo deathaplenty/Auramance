@@ -10,4 +10,6 @@ Attributes measure core features of a character or creature. These values are fi
 Attributes range from 1-10 and cannot be pushed below 1 or above 10
 
 
-<!-- {% include pageList.md type="attribute"%} -->
+{% for page in site.attributes %}
+[{{page.title}}]({{site.baseurl}}{{ page.url }})
+{% endfor %}

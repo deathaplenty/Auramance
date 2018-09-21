@@ -11,7 +11,7 @@ This is a measure of a character's physical capacity. This attribute will determ
 - 6 kilograms of carry weight, including equipment
 - 2 meters of throwing distance
 - 2 meters movement distance per action
-- bonuses to save vs [death]({{ site.baseurl }}{% link checks/saveVsDeath.md %}) and [toxin](https://github.com/deathaplenty/Auramance/wiki/Saving-Throws#save-vs-toxin-18)
+- bonuses to save vs [death]({{ site.baseurl }}{% link _checks/saveVsDeath.md %}) and [toxin]({{ site.baseurl }}{% link _checks/saveVsToxin.md %})
 
 ### What you get per two points of Body
 - 1 bonus damage for melee skills
