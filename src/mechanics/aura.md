@@ -11,7 +11,7 @@ The Aura is an atmosphere of magic. Entities can draw upon this energy, and the 
 Roll 1d20 for current Aura level
 
 ### Maximum
-maximum is always 20, unless the DM wants to change it, perhaps for a story-driven reason.
+maximum is always 20, unless the GM wants to change it, perhaps for a story-driven reason.
 
 ### Aura Regeneration
 Aura Regeneration is a fixed value based on moon phase.
