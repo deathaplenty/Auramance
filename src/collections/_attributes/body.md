@@ -8,8 +8,8 @@ This is a measure of a character's physical capacity. This attribute will determ
 
 
 ## Things That Body Affects
-- [Save Vs Death]({{ site.baseurl }}{% link _attributes/saveVsDeath.md %})
-- [Save Vs Toxin]({{ site.baseurl }}{% link _attributes/saveVsToxin.md %})
+- [Save Vs Death]({{ site.baseurl }}{% link _checks/saveVsDeath.md %})
+- [Save Vs Toxin]({{ site.baseurl }}{% link _checks/saveVsToxin.md %})
 
 
 ### What you get per point of body
