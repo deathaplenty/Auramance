@@ -5,7 +5,7 @@ skill: true
 utility: true
 ---
 
-This skill measures the character's ability to create useful liquid concoctions. At low skill levels, the character can make simple brews such as drinking alcohol and poisons. When this skill is combined with Development, potions with magical effects can be created.
+This skill measures the character's ability to create useful liquid concoctions. At low skill levels, the character can make simple brews such as drinking alcohol and poisons. At medium levels, medicines and antidotes can be created. At high levels, magic ingredients can be used to create potions.
 
 # Notable Ranks
 - 0: Cannot use this skill
