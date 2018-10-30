@@ -17,7 +17,3 @@ A dangerous and powerful spell. The simple utterance of a specific word with mal
 
 ## Cast Time
   1 Action
-
-
-## Range
-  10 meters

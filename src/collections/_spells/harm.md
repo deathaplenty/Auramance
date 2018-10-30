@@ -11,5 +11,3 @@ offense: true
   1d4 Magic Damage
 ## Cast Time
   2 actions
-## Range
-  30 meters
