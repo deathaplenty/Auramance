@@ -4,12 +4,20 @@ layout: page
 offense: true
 ---
 
-A dangerous and powerful spell. The simple utterance of a specific word with malevolent intent will throw both user and target into a sudden and painful death.
+A dangerous and powerful spell. The simple utterance of a specific word with malevolent intent will push the soul anyone unfortunate enough to hear its utterance out of their body.
+
+
 ## Effect
-  Kills user and target
+  Kills anyone who hears the word.
+
+
 ## Requirement
   Auramancy 5
+
+
 ## Cast Time
   1 Action
+
+
 ## Range
-  30 meters
+  10 meters
