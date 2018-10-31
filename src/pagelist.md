@@ -8,7 +8,7 @@
 ***Down here, ctrl-f is god.***
 
 
-{% assign pages = site.pages | sort: "title"  %}
+{% assign pages = site.documents | sort: "title"  %}
 {% for page in pages %}
 {% include pagelink.md page=page %}
 {% endfor %}

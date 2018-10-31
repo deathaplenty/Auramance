@@ -1,5 +1,5 @@
 ---
-  title: Welcome to the new wiki
+  title: Welcome to the New Wiki
   layout: post
 ---
 
