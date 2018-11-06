@@ -5,11 +5,3 @@ skill: true
 utility: true
 ---
 This skill measures a character's capacity to run, jump, or climb.
-
-## Notable Levels
-
-
-## Related Checks
-
-
-## Lore
