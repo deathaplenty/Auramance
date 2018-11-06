@@ -12,10 +12,10 @@ This is a measure of a character's physical capacity. This attribute will determ
 - [Save Vs Toxin]({{ site.baseurl }}{% link _checks/saveVsToxin.md %})
 
 
-### What you get per point of body
+### What you get per point of Body
 - 6 kilograms of carry weight, including equipment
 - 2 meters of throwing distance
-- 2 meters movement distance per action
+- 1 meter movement distance per action
 
 
 ### What you get per two points of Body
