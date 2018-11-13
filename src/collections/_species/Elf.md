@@ -1,18 +1,23 @@
 ---
 title: Elf
 layout: page
-specie: true
+characteristics:
+  Health: 16
+  Mind: "+1"
+  Body: "-2"
+  Spirit: "+1"
+  Auramancy: "+1"
+  Archery: "+1"
+  Two-Handed: "-1"
 ---
 Fae
 
-## Available Magic
-all
+## Characteristics
+{% for characteristic in page.characteristics %}
+{% if characteristic[1] == false %}- {{characteristic[0]}} Forbidden{% else %}- {{characteristic[0]}} {{characteristic[1]}}{% endif %}{% endfor %}
+<!--Sorry for the ugliness above. Shitty spacing in the list happens otherwise for some reason.  -->
 
-## Passives
-- Health = 16
-- Mind +1
-- Body -2
-- Spirit +1
+
 
 
 ## Lore
