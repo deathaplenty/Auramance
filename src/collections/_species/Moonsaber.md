@@ -7,15 +7,14 @@ Moonsabers, called "Moonsaber clan" by some, are a race of beings that are born 
 
 ## Available Magic
 - Consultation
-- Development
 
 
 ## Passives
-- Keen Senses
-- Evasion +1
-- Strength +1
-- Spirit -1
-- Cannot Aim
+- Powerful Senses
+- Body +2
+- Spirit -2
+
+
 ### Passives for Tiger Form
 - Moonfangs
   - Can damage etherials.

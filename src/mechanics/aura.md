@@ -29,5 +29,5 @@ Aura regeneration happens every in game hour.
 ### Casting from the Aura
 You can always cast a spell, even if Aura is at zero. However, for every point of mana used that isn't in the Aura, the character will take that much damage.
 
-### Dangers of taxing the Aura
-Some Fae don't like it when an entity drains the Aura. Some specifically dislike it when the Aura is driven below a value. Others dislike any Aura use at all. If some of these Fae are nearby, they will attack the caster if the criteria are met.
+### Dangers of drawing from the Aura
+Some Fae don't like it when people draw from the Aura. Each area should have a Fae threat level from 1 to 20. When a character rolls for Auramancy, if that roll is below the threat level, a random Fae creature should attack.
