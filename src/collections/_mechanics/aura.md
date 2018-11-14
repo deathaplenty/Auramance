@@ -1,7 +1,6 @@
 ---
 title: Aura
 layout: page
-mechanic: true
 ---
 
 The Aura is an atmosphere of magic. Entities can draw upon this energy, and the Aura will replenish itself naturally over time.

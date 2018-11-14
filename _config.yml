@@ -64,3 +64,6 @@ collections:
   species:
     output: true
     parmalink: /species/:path
+  mechanics:
+    output: true
+    parmalink: /mechanics/:path

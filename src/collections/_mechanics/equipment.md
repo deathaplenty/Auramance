@@ -1,7 +1,6 @@
 ---
 title: Equipment
 layout: page
-mechanic: true
 ---
 
 Equipment refers to the things the character is wearing, things like armor and weapons. Equipment is plainly visible on characters.

@@ -1,7 +1,6 @@
 ---
 title: Morale
 layout: page
-mechanic: true
 ---
 
 There are times during an adventure where one's strength of spirit will be tested. Some of these times are listed below.

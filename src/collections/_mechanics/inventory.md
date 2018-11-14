@@ -1,7 +1,6 @@
 ---
 title: Inventory
 layout: page
-mechanic: true
 ---
 
 Inventory has two limiting factors: weight and volume. Since it's bad enough having to keep track of a total weight, we'll use inventory slots as a simplification of volume.

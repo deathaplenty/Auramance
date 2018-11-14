@@ -1,0 +1,5 @@
+---
+title: Counterspell
+contest: true
+---
+

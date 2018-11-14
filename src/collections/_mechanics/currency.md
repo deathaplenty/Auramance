@@ -1,7 +1,6 @@
 ---
 title: Currency
 layout: page
-mechanic: true
 ---
 
 The most widely accepted currency is a form of unmarked gold coin that is shaped like a flat hexagon that has had weak points stamped into it to allow it to be broken into 6 smaller triangular units. These coins have no value beyond their intrinsic gold value.

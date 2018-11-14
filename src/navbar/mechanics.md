@@ -5,4 +5,6 @@ navbar: true
 permalink: /mechanics
 ---
 This is a landing page for all game mechanics.
-{% include pageList.md type="mechanic" %}
+{% for page in site.mechanics %}
+[{{page.title}}]({{site.baseurl}}{{ page.url }})
+{% endfor %}
