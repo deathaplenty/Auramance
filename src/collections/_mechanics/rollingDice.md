@@ -1,5 +1,5 @@
 ---
-title: Checks
+title: Rolling Dice
 layout: page
 
 ---
