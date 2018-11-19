@@ -67,3 +67,6 @@ collections:
   mechanics:
     output: true
     parmalink: /mechanics/:path
+  abilities:
+    output: true
+    parmalink: /abilities/:path

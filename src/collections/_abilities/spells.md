@@ -1,7 +1,6 @@
 ---
 title: Spells
 layout: page
-ability: true
 permalink: /spells/
 ---
 
